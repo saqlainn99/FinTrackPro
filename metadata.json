@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack Pro",
+  "description": "FinTrack Pro - Modern installment tracking, customer management, loan collection analytics, and digital receipts for retail and finance branches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
